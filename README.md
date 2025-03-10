@@ -5,6 +5,8 @@ Right click the included Comic Hearts font and click install to get the proper f
 
 Link to the add-on (not made by me) for use with these themes: https://github.com/onimitch/ffxi-balloon-ashitav4/tags
 
+Drag and drop the "kh", "kh-days" and "kh-com" folders into "C:\Ashita\addons\Balloon\themes" or wherever your balloon themes folder is located.
+
 Type /bl theme "name" for the theme you want to use when ingame
 
 Enjoy!
