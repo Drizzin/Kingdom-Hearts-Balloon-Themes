@@ -7,9 +7,9 @@
             <Width>232</Width>
             <Height>26</Height>
             <OffsetX>0</OffsetX>
-            <OffsetY>116</OffsetY>
+            <OffsetY>126</OffsetY>
             <TextOffsetX>12</TextOffsetX>
-            <TextOffsetY>119</TextOffsetY>
+            <TextOffsetY>129</TextOffsetY>
             <Color>
                 <Alpha>255</Alpha>
                 <Blue>255</Blue>
@@ -30,7 +30,7 @@
             <Size>12</Size>
             <MaxLength>81</MaxLength>
             <Width>750</Width>
-            <Height>145</Height>
+            <Height>155</Height>
             <TextOffsetX>45</TextOffsetX>
             <TextOffsetY>15</TextOffsetY>
             <TextMarginRight>45</TextMarginRight>
@@ -71,7 +71,7 @@
             <Width>24</Width>
             <Height>41</Height>
             <OffsetX>440</OffsetX>
-            <OffsetY>118</OffsetY>
+            <OffsetY>132</OffsetY>
         </Prompt>
         <Timer>
             <TextOffsetX>698</TextOffsetX>
@@ -81,7 +81,7 @@
             <Width>225</Width>
             <Height>225</Height>
             <OffsetX>0</OffsetX>
-            <OffsetY>-109</OffsetY>
+            <OffsetY>-99</OffsetY>
             <MaxLength>64</MaxLength>
             <MessageTextOffsetX>239</MessageTextOffsetX>
             <MessageTextOffsetY>14</MessageTextOffsetY>

@@ -84,7 +84,7 @@
             <OffsetY>-76</OffsetY>
             <MaxLength>64</MaxLength>
             <MessageTextOffsetX>239</MessageTextOffsetX>
-            <MessageTextOffsetY>32</MessageTextOffsetY>
+            <MessageTextOffsetY>25</MessageTextOffsetY>
         </Portrait>
     </global>
 </settings>
