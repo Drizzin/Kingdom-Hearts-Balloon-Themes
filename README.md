@@ -3,9 +3,9 @@ Custom themes for the FFXI Balloon add-on
 
 Right click the included Comic Hearts font and click install to get the proper font. Re-open Ashita if you did this whilst it was open. (credit for font goes to https://x.com/SpectreProXy/status/1267666172700495873)
 
-Link to the add-on (not made by me) for use with these themes: https://github.com/onimitch/ffxi-balloon-ashitav4/releases
+Link to the add-on (not made by me) for use with these themes: 
 
-I use the ashita version, cannot confirm if this works with the Windower version or not but I imagine it would. 
+Ashita version:   https://github.com/onimitch/ffxi-balloon-ashitav4/releases
 
 Windower version: https://github.com/StarlitGhost/Balloon/releases
 
