@@ -4,11 +4,11 @@
         <NpcName>
             <Font>Comic Hearts</Font>
             <Size>14</Size>
-            <Width>242</Width>
+            <Width>250</Width>
             <Height>26</Height>
             <OffsetX>1</OffsetX>
             <OffsetY>147</OffsetY>
-            <TextOffsetX>4</TextOffsetX>
+            <TextOffsetX>12</TextOffsetX>
             <TextOffsetY>150</TextOffsetY>
             <Color>
                 <Alpha>255</Alpha>
