@@ -4,7 +4,7 @@
         <NpcName>
             <Font>Comic Hearts</Font>
             <Size>14</Size>
-            <Width>250</Width>
+            <Width>253</Width>
             <Height>26</Height>
             <OffsetX>0</OffsetX>
             <OffsetY>126</OffsetY>
@@ -70,7 +70,7 @@
         <Prompt>
             <Width>24</Width>
             <Height>41</Height>
-            <OffsetX>458</OffsetX>
+            <OffsetX>461</OffsetX>
             <OffsetY>132</OffsetY>
         </Prompt>
         <Timer>
@@ -83,7 +83,7 @@
             <OffsetX>0</OffsetX>
             <OffsetY>-99</OffsetY>
             <MaxLength>64</MaxLength>
-            <MessageTextOffsetX>239</MessageTextOffsetX>
+            <MessageTextOffsetX>254</MessageTextOffsetX>
             <MessageTextOffsetY>14</MessageTextOffsetY>
         </Portrait>
     </global>
