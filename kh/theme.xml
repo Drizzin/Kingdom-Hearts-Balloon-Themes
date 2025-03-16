@@ -4,7 +4,7 @@
         <NpcName>
             <Font>Comic Hearts</Font>
             <Size>14</Size>
-            <Width>250</Width>
+            <Width>253</Width>
             <Height>26</Height>
             <OffsetX>1</OffsetX>
             <OffsetY>147</OffsetY>
@@ -83,7 +83,7 @@
             <OffsetX>1</OffsetX>
             <OffsetY>-76</OffsetY>
             <MaxLength>64</MaxLength>
-            <MessageTextOffsetX>239</MessageTextOffsetX>
+            <MessageTextOffsetX>254</MessageTextOffsetX>
             <MessageTextOffsetY>25</MessageTextOffsetY>
         </Portrait>
     </global>
