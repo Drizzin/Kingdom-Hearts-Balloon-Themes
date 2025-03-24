@@ -27,7 +27,7 @@
         <Message>
             <FontEnglish>Comic Hearts</FontEnglish>
             <FontJapanese>Meiryo</FontJapanese>
-            <Size>12</Size>
+            <Size>11</Size>
             <MaxLength>81</MaxLength>
             <Width>750</Width>
             <Height>220</Height>
