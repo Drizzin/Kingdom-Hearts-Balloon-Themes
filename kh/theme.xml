@@ -7,9 +7,9 @@
             <Width>253</Width>
             <Height>26</Height>
             <OffsetX>1</OffsetX>
-            <OffsetY>147</OffsetY>
+            <OffsetY>164</OffsetY>
             <TextOffsetX>8</TextOffsetX>
-            <TextOffsetY>150</TextOffsetY>
+            <TextOffsetY>167</TextOffsetY>
             <Color>
                 <Alpha>255</Alpha>
                 <Blue>255</Blue>
@@ -27,12 +27,12 @@
         <Message>
             <FontEnglish>Comic Hearts</FontEnglish>
             <FontJapanese>Meiryo</FontJapanese>
-            <Size>11</Size>
+            <Size>10</Size>
             <MaxLength>81</MaxLength>
             <Width>750</Width>
-            <Height>220</Height>
+            <Height>242</Height>
             <TextOffsetX>45</TextOffsetX>
-            <TextOffsetY>20</TextOffsetY>
+            <TextOffsetY>17</TextOffsetY>
             <TextMarginRight>45</TextMarginRight>
             <Dialogue>
                 <Color>
@@ -71,17 +71,17 @@
             <Width>35</Width>
             <Height>55</Height>
             <OffsetX>666</OffsetX>
-            <OffsetY>143</OffsetY>
+            <OffsetY>165</OffsetY>
         </Prompt>
         <Timer>
             <TextOffsetX>698</TextOffsetX>
-            <TextOffsetY>138</TextOffsetY>
+            <TextOffsetY>160</TextOffsetY>
         </Timer>
         <Portrait>
             <Width>225</Width>
             <Height>225</Height>
             <OffsetX>1</OffsetX>
-            <OffsetY>-76</OffsetY>
+            <OffsetY>-61</OffsetY>
             <MaxLength>64</MaxLength>
             <MessageTextOffsetX>247</MessageTextOffsetX>
             <MessageTextOffsetY>25</MessageTextOffsetY>
