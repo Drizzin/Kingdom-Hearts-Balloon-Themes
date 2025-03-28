@@ -13,4 +13,6 @@ Drag and drop the "kh", "kh-days" and "kh-com" folders into "C:\Ashita\addons\Ba
 
 Type /bl theme "name" for the theme you want to use when ingame
 
+If you find the text too small for you, try using "/bl scale x" to change the size of the chat bubble. I personally use 1.5 or 1.6. The default is "/bl scale 1"
+
 Enjoy!
